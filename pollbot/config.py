@@ -7,8 +7,8 @@ import toml
 
 default_config = {
     "telegram": {
-        "bot_name": "your_bot_@_username",
-        "api_key": "your_telegram_api_key",
+        "bot_name": "your_bot_@_quiz4571",
+        "api_key": "7871391150:AAGlJNCI7HjbC4ZMo5lIf6py-Q-mwTsFCdM",
         "worker_count": 20,
         "admin": "nukesor",
         "allow_private_vote": False,
